@@ -6,16 +6,25 @@ The project involves tasks such as cleaning and formatting data, creating charts
 Analysis:
 
 Start Time & Stop Time Year Analysis.
+
 Start Station & End Station Trips.
-A Map of Yearly Trips by Location
+
+A Map of Yearly Trips by Location.
+
 Trip duration by Age.
+
 Gender.
+
 Starting & Ending Journey.
+
 Yearly Analysis Dashboard.
+
 Top KPI's.
+
 City Bike Story.
 
 Data set URL: 
+
 https://citibikenyc.com/system-data.
 
 
